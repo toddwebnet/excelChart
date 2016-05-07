@@ -1,0 +1,71 @@
+body {
+    background-color: #999;
+}
+
+.container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+    padding: 10px;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
+    -webkit-border-top: 10px !important;
+    -moz-border-top: 10px !important;
+    border-top: 10px !important;
+    -webkit-border-bottom: 10px !important;
+    -moz-border-bottom: 10px !important;
+    border-bottom: 10px !important;
+}
+
+.jumbotron {
+    background-image: url('../images/banner2.jpg');
+    background-position: 0px -350px;
+    height: 250px;
+}
+
+.homeArticle h3 {
+    text-align: center;
+    color: #337ab7;
+
+}
+
+.homeArticle p img {
+    text-align: center !important;
+
+}
+
+.homeArticle p {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+}
+
+footer {
+    margin-top: 20px;
+}
+
+.itemList {
+    padding: 10px;
+    margin-top: -25px;
+}
+
+.itemList li {
+    display: inline-block;
+    margin: 10px 0;
+
+}
+
+.itemList li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+.formErr
+{
+    color:red;
+    font-weight: bold;
+}
