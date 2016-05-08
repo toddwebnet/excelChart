@@ -63,3 +63,6 @@ why you used it.
 
 You can test the application at this address:
 [http://s622929687.onlinehome.us/index.php/](http://s622929687.onlinehome.us/index.php/)
+
+* Username: admin
+* Password: trippleH	
