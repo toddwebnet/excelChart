@@ -19,9 +19,9 @@ body {
 }
 
 .jumbotron {
-    background-image: url('../images/banner2.jpg');
-    background-position: 0px -350px;
-    height: 250px;
+    background-image: url('../images/banner1.jpg');
+    background-position: -510px -400px;
+    height: 150px;
 }
 
 .homeArticle h3 {
