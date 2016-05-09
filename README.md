@@ -47,7 +47,7 @@ why you used it.
 * **PHP Excel** I happened to have built a simple excel too for converting excel worksheets into yml data structures, so this was half built already :) For simplicity's sake, I stuck with the support of pre 2007 excel files (.xls).  If this were a real event, attention would have been made to support the newest excel file format (.xlsx)
 * **Bootstrap** I already had a small template built using bootstrap, so I altered a few things and brought it into this app for a nice look and feel.
 * **files structure** 
-	* appliction - custom code for MVC framework
+	* application - custom code for MVC framework
 		*  config - configuation variables
 		*  controllers - php code for handling incoming http requests
 		*  helpers - collection of simple custom functions used throughtout the framework
